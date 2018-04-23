@@ -21,3 +21,6 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 * Run the train_emotion_classification.py file
 > python3 train.py
 
+For More Details Contact
+
+[sainjal](https://www.facebook.com/sainjal.poly)
