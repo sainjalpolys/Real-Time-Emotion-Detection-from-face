@@ -23,4 +23,4 @@ Real-time face detection and emotion/gender classification using fer2013/IMDB da
 
 For More Details Contact
 
-[sainjal](https://www.facebook.com/sainjal.poly)
+[Sainjal](https://www.facebook.com/sainjal.poly)
